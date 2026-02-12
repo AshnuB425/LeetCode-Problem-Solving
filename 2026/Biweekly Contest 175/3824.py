@@ -1,3 +1,4 @@
+#Approach 1: Binary Search on Answer
 class Solution:
     def minimumK(self, nums: List[int]) -> int:
         i,j=1,100005
