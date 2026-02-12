@@ -1,3 +1,4 @@
+#Approach 1: Two Pointers
 class Solution:
     def reverseByType(self, s: str) -> str:
         spe=[]
