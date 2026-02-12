@@ -1,3 +1,4 @@
+#Approach 1: Simulation
 class Solution:
     def minimumPrefixLength(self, nums: List[int]) -> int:
         mini=len(nums)-1
