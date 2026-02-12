@@ -1,3 +1,4 @@
+#Approach 1: Set+Greedy
 class Solution:
     def minOperations(self, nums: List[int], target: List[int]) -> int:
         s=set()
