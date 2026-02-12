@@ -1,3 +1,4 @@
+#Approach 1: Math+Greedy
 class Solution:
     def minAllOneMultiple(self, k: int) -> int:
         rem=0
