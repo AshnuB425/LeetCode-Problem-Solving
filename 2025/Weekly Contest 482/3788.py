@@ -1,3 +1,4 @@
+#Approach 1: Prefix Sum+ Suffix Minimum
 class Solution:
     def maximumScore(self, nums: List[int]) -> int:
         pre=[]
