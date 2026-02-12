@@ -1,3 +1,4 @@
+#Approach 1: Sliding Window
 class Solution:
     def minLength(self, nums: List[int], k: int) -> int:
         mini=1e9
