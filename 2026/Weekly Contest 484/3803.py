@@ -1,3 +1,4 @@
+#Approach 1: Set+Simulation
 class Solution:
     def residuePrefixes(self, s: str) -> int:
         a=set()
