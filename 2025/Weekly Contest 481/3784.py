@@ -1,3 +1,4 @@
+#Approach 1: Hash Map
 class Solution:
     def minCost(self, s: str, cost: List[int]) -> int:
         a=sum(cost)
