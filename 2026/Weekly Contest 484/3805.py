@@ -1,3 +1,4 @@
+#Approach 1: Hash Map
 class Solution:
     def countPairs(self, words: List[str]) -> int:
         d=dict()
