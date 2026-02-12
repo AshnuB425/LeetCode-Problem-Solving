@@ -1,3 +1,4 @@
+#Approach 1: Brute Force
 class Solution:
     def wordSquares(self, words: List[str]) -> List[List[str]]:
         ans=[]
