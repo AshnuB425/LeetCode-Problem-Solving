@@ -1,3 +1,4 @@
+#Approach 1: Math+Greedy
 class Solution:
     def bestTower(self, towers: List[List[int]], center: List[int], radius: int) -> List[int]:
         c=[1e9,1e9]
